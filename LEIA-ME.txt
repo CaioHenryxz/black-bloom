@@ -1,0 +1,10 @@
+BLACK BLOOM — PROPOSTA DE SITE
+
+Abra index.html no navegador.
+Versão de apresentação, com fotos públicas dos perfis informados.
+Galeria com filtros, ampliação, menu móvel e formulário de orçamento pelo WhatsApp.
+As mensagens são enviadas apenas quando o visitante confirma no WhatsApp.
+Tatuagens e camisetas: preços e disponibilidade diretamente com o studio.
+Óculos: aguardando definição da parceria e materiais.
+Confirmar textos, seleção de fotos, contatos e endereço completo com os artistas antes do lançamento.
+As fontes do Google precisam de internet; sem conexão, o site usa fontes alternativas.
